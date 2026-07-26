@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, sans-serif">
+  <rect width="800" height="500" fill="#0d0d0f"/>
+  <text x="40" y="56" fill="#fff" font-size="24" font-weight="700">Email Campaign</text>
+  <text x="558" y="56" fill="#B7D42A" font-size="24" font-weight="900">48% open rate</text>
+  <rect x="40" y="86" width="720" height="82" rx="12" fill="#17171c"/>
+  <circle cx="82" cy="127" r="20" fill="#FF66C4"/>
+  <text x="122" y="120" fill="#fff" font-size="18" font-weight="700">Your Brand</text>
+  <text x="122" y="146" fill="#8a8a94" font-size="15">Your exclusive offer is inside, open now</text>
+  <rect x="656" y="115" width="82" height="26" rx="13" fill="#B7D42A"/>
+  <text x="697" y="133" text-anchor="middle" fill="#0d0d0f" font-size="13" font-weight="800">Opened</text>
+  <rect x="40" y="188" width="720" height="82" rx="12" fill="#141419"/>
+  <circle cx="82" cy="229" r="20" fill="#B7D42A"/>
+  <text x="122" y="222" fill="#fff" font-size="18" font-weight="700">Your Brand</text>
+  <text x="122" y="248" fill="#8a8a94" font-size="15">New drop just landed, shop early access</text>
+  <rect x="40" y="290" width="720" height="82" rx="12" fill="#141419"/>
+  <circle cx="82" cy="331" r="20" fill="#FF66C4"/>
+  <text x="122" y="324" fill="#fff" font-size="18" font-weight="700">Your Brand</text>
+  <text x="122" y="350" fill="#8a8a94" font-size="15">We saved your cart, here is 10% off</text>
+</svg>

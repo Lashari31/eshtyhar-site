@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, sans-serif">
+  <rect width="800" height="500" fill="#0d0d0f"/>
+  <text x="40" y="54" fill="#fff" font-size="26" font-weight="700">Campaign Performance</text>
+  <rect x="636" y="32" width="124" height="32" rx="16" fill="#FF66C4"/>
+  <circle cx="660" cy="48" r="5" fill="#0d0d0f"/>
+  <text x="674" y="54" fill="#0d0d0f" font-size="15" font-weight="700">LIVE</text>
+  <text x="40" y="150" fill="#FF66C4" font-size="72" font-weight="900">10X ROAS</text>
+  <text x="42" y="182" fill="#9a9aa4" font-size="18">Return on ad spend, last 30 days</text>
+  <rect x="40" y="210" width="220" height="92" rx="14" fill="#17171b"/>
+  <text x="60" y="250" fill="#B7D42A" font-size="30" font-weight="800">$248K</text>
+  <text x="60" y="280" fill="#8a8a94" font-size="15">Revenue</text>
+  <rect x="290" y="210" width="220" height="92" rx="14" fill="#17171b"/>
+  <text x="310" y="250" fill="#fff" font-size="30" font-weight="800">3.4%</text>
+  <text x="310" y="280" fill="#8a8a94" font-size="15">Conversion rate</text>
+  <rect x="540" y="210" width="220" height="92" rx="14" fill="#17171b"/>
+  <text x="560" y="250" fill="#fff" font-size="30" font-weight="800">18.2K</text>
+  <text x="560" y="280" fill="#8a8a94" font-size="15">Conversions</text>
+  <rect x="60"  y="410" width="60" height="40"  rx="4" fill="#2c2c33"/>
+  <rect x="150" y="390" width="60" height="60"  rx="4" fill="#2c2c33"/>
+  <rect x="240" y="360" width="60" height="90"  rx="4" fill="#B7D42A"/>
+  <rect x="330" y="380" width="60" height="70"  rx="4" fill="#2c2c33"/>
+  <rect x="420" y="340" width="60" height="110" rx="4" fill="#FF66C4"/>
+  <rect x="510" y="322" width="60" height="128" rx="4" fill="#B7D42A"/>
+  <rect x="600" y="300" width="60" height="150" rx="4" fill="#FF66C4"/>
+  <rect x="690" y="280" width="60" height="170" rx="4" fill="#B7D42A"/>
+  <path d="M90 420 L180 400 L270 372 L360 388 L450 352 L540 332 L630 308 L720 288" stroke="#fff" stroke-width="3" fill="none" opacity="0.55"/>
+</svg>
