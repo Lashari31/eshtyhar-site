@@ -25,6 +25,7 @@
   --glass-border: rgba(255,255,255,0.45);   /* white edge — brighter so the panel edge is legible */
   --ink:          #111111;
   --white:        #FFFFFF;
+  --logo:         url(./assets/eshtyhar-logo.png);   /* ESHTYHAR wordmark, resolved by Vite so it works in dev + build */
   --surface:      #EDEBDF;   /* raised light panels (cards, stat box) — opaque so the timeline line hides behind cards */
   --surface-2:    #E3E1D3;   /* pills, faq rows */
   --surface-3:    #F4F3EB;   /* hover / popovers */
