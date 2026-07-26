@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, sans-serif">
+  <defs><linearGradient id="ag" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FF66C4"/><stop offset="1" stop-color="#FF66C4" stop-opacity="0"/></linearGradient></defs>
+  <rect width="800" height="500" fill="#0d0d0f"/>
+  <text x="40" y="58" fill="#fff" font-size="24" font-weight="700">Conversions</text>
+  <text x="40" y="120" fill="#B7D42A" font-size="60" font-weight="900">+240%</text>
+  <g stroke="#1e1e24" stroke-width="1">
+    <line x1="40" y1="210" x2="760" y2="210"/><line x1="40" y1="310" x2="760" y2="310"/><line x1="40" y1="410" x2="760" y2="410"/>
+  </g>
+  <path d="M40 430 L180 402 L320 352 L460 320 L600 232 L760 150 L760 460 L40 460 Z" fill="url(#ag)" opacity="0.55"/>
+  <path d="M40 430 L180 402 L320 352 L460 320 L600 232 L760 150" stroke="#FF66C4" stroke-width="5" fill="none"/>
+  <circle cx="760" cy="150" r="8" fill="#FF66C4"/>
+</svg>

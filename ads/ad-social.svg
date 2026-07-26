@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, sans-serif">
+  <defs><linearGradient id="g1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF66C4"/><stop offset="1" stop-color="#B7D42A"/></linearGradient></defs>
+  <rect width="800" height="500" fill="#101014"/>
+  <rect x="232" y="26" width="336" height="448" rx="22" fill="#17171c"/>
+  <circle cx="272" cy="74" r="20" fill="#FF66C4"/>
+  <text x="272" y="82" text-anchor="middle" fill="#0d0d0f" font-size="20" font-weight="900">E</text>
+  <text x="304" y="70" fill="#fff" font-size="17" font-weight="700">yourbrand</text>
+  <text x="304" y="90" fill="#8a8a94" font-size="13">Sponsored</text>
+  <rect x="252" y="106" width="296" height="216" rx="4" fill="url(#g1)"/>
+  <text x="400" y="228" text-anchor="middle" fill="#0d0d0f" font-size="40" font-weight="900">SALE</text>
+  <g stroke="#fff" stroke-width="2.6" fill="none" opacity="0.9">
+    <path d="M272 356c-7-7-18 0-18 9 0 9 18 18 18 18s18-9 18-18c0-9-11-16-18-9z"/>
+    <circle cx="316" cy="365" r="10"/>
+    <path d="M356 354l18 11-18 11z"/>
+  </g>
+  <rect x="252" y="404" width="296" height="46" rx="10" fill="#FF66C4"/>
+  <text x="400" y="434" text-anchor="middle" fill="#0d0d0f" font-size="18" font-weight="800">Shop Now</text>
+</svg>

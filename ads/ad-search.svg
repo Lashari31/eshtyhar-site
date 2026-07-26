@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" font-family="Arial, sans-serif">
+  <rect width="800" height="500" fill="#0d0d0f"/>
+  <rect x="56" y="48" width="688" height="56" rx="28" fill="#1a1a1f"/>
+  <circle cx="94" cy="76" r="10" stroke="#8a8a94" stroke-width="3" fill="none"/>
+  <line x1="102" y1="84" x2="112" y2="94" stroke="#8a8a94" stroke-width="3"/>
+  <text x="126" y="83" fill="#cfcfd6" font-size="20">digital marketing agency new jersey</text>
+  <text x="56" y="168" fill="#B7D42A" font-size="15" font-weight="800">Ad</text>
+  <text x="88" y="168" fill="#8a8a94" font-size="15">www.eshtyhar.com</text>
+  <text x="56" y="204" fill="#FF66C4" font-size="26" font-weight="700">Eshtyhar | #1 Digital Marketing Agency</text>
+  <text x="56" y="238" fill="#b9b9c2" font-size="17">Go viral, rank #1, and turn ad spend into revenue.</text>
+  <text x="56" y="264" fill="#b9b9c2" font-size="17">Up to 20X ROI. Money-back guarantee.</text>
+  <text x="56" y="330" fill="#6a6a72" font-size="15">a-competitor.com</text>
+  <rect x="56" y="344" width="430" height="14" rx="7" fill="#26262c"/>
+  <rect x="56" y="372" width="600" height="10" rx="5" fill="#1c1c22"/>
+  <rect x="56" y="392" width="520" height="10" rx="5" fill="#1c1c22"/>
+</svg>
